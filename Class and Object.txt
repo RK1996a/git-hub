@@ -1,0 +1,15 @@
+Class and Objecti
+--------------------
+1) Class is logical entity which contains logic 
+2)Class contains variables and methods
+3)Logic should be included within a method
+
+4)An Object is physical entity which is created for a class
+5)We can create any number of objects for a class
+
+
+*Creating basic class and object which include methods
+
+
+* Instance method and static method
+c
